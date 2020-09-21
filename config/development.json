@@ -1,0 +1,14 @@
+{
+    "server": {
+        "port": "localhost"
+    },
+    "db": {
+        "type": "mysql",
+        "port": 3306,
+        "database": "tasks"
+    },
+
+    "jwt": {
+        "expiresIn": 3600
+    }
+}
